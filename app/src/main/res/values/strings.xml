@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dicebot</string>
+    <string name="roll">Touch the dice to see the result!</string>
+    <string name="dice_starting_number">1</string>
+    <string name="sided_dice"> Sided Dice</string>
+    <string name="dice_starting_size">6</string>
+    <string name="instructions">Select how many sides the dice should have in the box below.</string>
+</resources>

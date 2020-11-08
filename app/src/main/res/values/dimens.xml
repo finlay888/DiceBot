@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dice_shape_size">150dp</dimen>
+    <dimen name="dice_result_text_size">80sp</dimen>
+
+    <dimen name="dice_shape_corner_radius">20dp</dimen>
+    <dimen name="dice_elevation">10dp</dimen>
+    <dimen name="roll_text_size">20sp</dimen>
+    <dimen name="text_background_corner_radius">7dp</dimen>
+    <dimen name="text_paddingVertical">15dp</dimen>
+    <dimen name="text_paddingHorizontal">50dp</dimen>
+    <dimen name="text_elevation">7dp</dimen>
+    <dimen name="et_dice_number_box_size">30dp</dimen>
+    <dimen name="dice_separator_margin">10dp</dimen>
+</resources>

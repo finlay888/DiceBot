@@ -1,0 +1,2 @@
+rootProject.name='Dicebot'
+include ':app'
